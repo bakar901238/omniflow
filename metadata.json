@@ -1,0 +1,5 @@
+{
+  "name": "InstaBot Admin Dashboard",
+  "description": "A comprehensive administration portal for managing Instagram chatbot users, prompts, and configurations with secure access controls.",
+  "requestFramePermissions": []
+}
